@@ -11,7 +11,7 @@
 <br>-	наявності товару, 
 <br>-	доступ до адміністративної панелі сайту.
 <br>
-<br>Використати інструментарій: Python, Bootstrap, MySQL.
+<br>Використати інструментарій: PHP, Bootstrap, MySQL.
 
 ## Посилання на сайт
 <br>http://ec2-16-16-186-217.eu-north-1.compute.amazonaws.com/
